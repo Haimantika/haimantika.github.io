@@ -1,0 +1,5 @@
+baseURL: https://haimantika.github.io/
+title: charlola.mode
+paginate: 5
+theme: charlolamode
+publishDir: docs

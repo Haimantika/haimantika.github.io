@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>charlola.mode</title>
+    <link>https://haimantika.github.io/</link>
+    <description>Recent content on charlola.mode</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://haimantika.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Phone Authenication App</title>
+      <link>https://haimantika.github.io/talks/csharpcornerconf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://haimantika.github.io/talks/csharpcornerconf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next-Gen Inclusivity- How Gen Z Can Make Real Change in Tech</title>
+      <link>https://haimantika.github.io/talks/codeland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://haimantika.github.io/talks/codeland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome 👋</title>
+      <link>https://haimantika.github.io/articles/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://haimantika.github.io/articles/article/</guid>
+      <description>Hi 👋 Haimantika here! We finally have a portfolio, where you get to find everything about me in one place.
+For those who are new here, hi! I am Haimantika, a Developer Advocate at Appwrite and used to work at Microsoft for a short stint as a Support Engineer.
+I come from a small city, Siliguri located in the North Eastern part of India. Fun fact - I never wanted to do engineering, fast forward to 6 years, now I have an engineering degree and working full-time in tech for 2 years.</description>
+    </item>
+    
+  </channel>
+</rss>
