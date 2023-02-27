@@ -24,6 +24,17 @@
     </item>
     
     <item>
+      <title>The Subtle Art Of Cold Emailing</title>
+      <link>https://haimantika.github.io/articles/article2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://haimantika.github.io/articles/article2/</guid>
+      <description>What is cold- emailing? Is there a dream company/dream role you want to work for? Do you want a reply from your favorite celebrity? Do you want to get mentored by your idol? Cold-emailing can do it for you!
+You never know, when a simple tweet or an email or a message can lead to your first big hit! Put your creative hat on and get the desired results!
+There are numerous examples of people getting hired from a LinkedIn post or an email, becoming a social media celebrity overnight and more.</description>
+    </item>
+    
+    <item>
       <title>Welcome 👋</title>
       <link>https://haimantika.github.io/articles/article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -32,6 +43,17 @@
       <description>Hi 👋 Haimantika here! We finally have a portfolio, where you get to find everything about me in one place.
 For those who are new here, hi! I am Haimantika, a Developer Advocate at Appwrite and used to work at Microsoft for a short stint as a Support Engineer.
 I come from a small city, Siliguri located in the North Eastern part of India. Fun fact - I never wanted to do engineering, fast forward to 6 years, now I have an engineering degree and working full-time in tech for 2 years.</description>
+    </item>
+    
+    <item>
+      <title>What is DevRel?</title>
+      <link>https://haimantika.github.io/articles/article1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://haimantika.github.io/articles/article1/</guid>
+      <description>DevRels are making the heads turn and if you think it&amp;rsquo;s because the job is cool, you are mistaken. It is because the term is relatively new and many are unaware of the role.
+If I had to express that in a tweet, it would go something like 👇 {% embed https://twitter.com/HaimantikaM/status/1600488249205850114?s=20&amp;amp;t=LJ8zgc0NBxwuuchIfb_bWg %}
+P.S - The definition of DevRel has a lot to do with individual perspectives and company goals. In this article I will try to put a generalised view of the role.</description>
     </item>
     
   </channel>
