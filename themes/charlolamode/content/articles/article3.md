@@ -1,5 +1,8 @@
 ---
-title: "DevRelCon Yokohama 2023"
+title: DevRelCon Yokohama 2023
+type: page
+description: All about DevRelCon Yokohama
+topic: personal
 ---
 DevRelCon Yokohama was all about meeting amazing people, a lot of learnings, some "this is my first time doing it" and a lot of FUN! 
 

@@ -12,7 +12,7 @@ DevRels are making the heads turn and if you think it's because the job is cool,
 
 
 If I had to express that in a tweet, it would go something like 👇
-{% embed https://twitter.com/HaimantikaM/status/1600488249205850114?s=20&t=LJ8zgc0NBxwuuchIfb_bWg %} 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I will say it again, explaining to my friends and family what I do is more difficult than my actual job. 🤝</p>&mdash; Haimantika Mitra (@HaimantikaM) <a href="https://twitter.com/HaimantikaM/status/1600488249205850114?ref_src=twsrc%5Etfw">December 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 P.S - The definition of DevRel has a lot to do with individual perspectives and company goals. In this article I will try to put a generalised view of the role.
 
@@ -22,8 +22,7 @@ It is time to answer the burning question `What is DevRel?` . To go by definitio
 
 There are some theories around DevRel or Developer Advocacy and my favourite one is👇
 
-{% embed 
- https://twitter.com/pragdua/status/1569785589939191810?s=20&t=gTpawzUy0RGes68k2OMDHQ %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i used to think developer advocates are lawyers for keeping devs out of jail</p>&mdash; pragun (@pragdua) <a href="https://twitter.com/pragdua/status/1569785589939191810?ref_src=twsrc%5Etfw">September 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 BUT
