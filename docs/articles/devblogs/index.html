@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>DevRelCon Yokohama 2023 | haimantika</title>
+<meta name="keywords" content="" />
+<meta name="description" content="DevRelCon Yokohama was all about meeting amazing people, a lot of learnings, some &ldquo;this is my first time doing it&rdquo; and a lot of FUN!
+This was my first time speaking in a in-person international conference, I was excited and nervous at the same time. It was a two day conference, happening in Yokohama, Japan. I have been friends with the DevRelCon Tokyo/Yokohama organising team since 2020, I was a speaker for the online edition (also a major reason why I chose my career in DevRel).">
+<meta name="author" content="Haimantika">
+<link rel="canonical" href="https://haimantika.github.io/articles/devblogs/" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.7bfe087ae72df31787ec7a1360dd05ee246a179b51cf7a30a904b39d7f813b69.css" integrity="sha256-e/4Ieuct8xeH7HoTYN0F7iRqF5tRz3owqQSznX&#43;BO2k=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.b95bacdc39e37a332a9f883b1e78be4abc1fdca2bc1f2641f55e3cd3dabd4d61.js" integrity="sha256-uVus3DnjejMqn4g7Hni&#43;Srwf3KK8HyZB9V4809q9TWE="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://haimantika.github.io/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://haimantika.github.io/images/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://haimantika.github.io/images/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://haimantika.github.io/images/apple-touch-icon.png">
+<link rel="mask-icon" href="https://haimantika.github.io/images/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://haimantika.github.io/" accesskey="h" title="haimantika (Alt + H)">haimantika</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="/" title="Home"><span>Home</span></a>
+            </li>
+            <li>
+                <a href="https://haimantika.github.io/talks/" title="Talks">
+                    <span>Talks</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://haimantika.github.io/articles/" title="Articles">
+                    <span>Articles</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://haimantika.github.io/contact/" title="Contact">
+                    <span>Contact</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="https://haimantika.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://haimantika.github.io/articles/">Articles</a></div>
+    <h1 class="post-title">
+      DevRelCon Yokohama 2023
+    </h1>
+    <div class="post-meta">5 min&nbsp;·&nbsp;Haimantika</div>
+  </header> <div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#day-1" aria-label="Day 1">Day 1</a></li>
+                <li>
+                    <a href="#day-2" aria-label="Day 2">Day 2</a></li>
+                <li>
+                    <a href="#day-1-of-the-conference" aria-label="Day 1 of the conference">Day 1 of the conference</a></li>
+                <li>
+                    <a href="#day-2-of-the-conference" aria-label="Day 2 of the conference">Day 2 of the conference</a></li>
+                <li>
+                    <a href="#day-5-in-tokyo" aria-label="Day 5 in Tokyo">Day 5 in Tokyo</a></li>
+                <li>
+                    <a href="#day-6-in-tokyo" aria-label="Day 6 in Tokyo">Day 6 in Tokyo</a></li>
+                <li>
+                    <a href="#takeaways-from-the-conference" aria-label="Takeaways from the conference">Takeaways from the conference</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content">
+  <p>DevRelCon Yokohama was all about meeting amazing people, a lot of learnings, some &ldquo;this is my first time doing it&rdquo; and a lot of FUN!</p>
+<p>This was my first time speaking in a in-person international conference, I was excited and nervous at the same time. It was a two day conference, happening in Yokohama, Japan. I have been friends with the DevRelCon Tokyo/Yokohama organising team since 2020, I was a speaker for the online edition (also a major reason why I chose my career in DevRel).</p>
+<h2 id="day-1">Day 1</h2>
+<p>It was a 7 day trip for me. I arrived two days before the conference, the first day was all about recovering from travel and getting used to the timezone and also, failing badly at eating with a chopstick (What you see in the picture is a baby fork) 👇</p>
+<p><img loading="lazy" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9h0elxodot1p0y52k8a0.jpg" alt="Image description"  />
+</p>
+<p>Did I mention about meeting Diana? We have been friends for a long time, and this is us meeting for the first time 👇</p>
+<p>{% embed <a href="https://twitter.com/adityaoberai1/status/1633466636731822082?s=20">https://twitter.com/adityaoberai1/status/1633466636731822082?s=20</a> %}</p>
+<hr>
+<h2 id="day-2">Day 2</h2>
+<p>Day 2 started with the jet lag hitting hard, and some surprise meetings! 👇</p>
+<p>{% embed <a href="https://twitter.com/adityaoberai1/status/1633633605686792192?s=20">https://twitter.com/adityaoberai1/status/1633633605686792192?s=20</a> %}</p>
+<p>Spent the rest of the day exploring the city, preparing for my talk, and also wrapping up some work.</p>
+<p>The day ended with and unofficial speaker dinner and making some takoyaki!</p>
+<p>{% embed <a href="https://twitter.com/goofmint/status/1633807686545608707?s=20">https://twitter.com/goofmint/status/1633807686545608707?s=20</a> %}</p>
+<hr>
+<h2 id="day-1-of-the-conference">Day 1 of the conference</h2>
+<p>It was a Friday, thus the conference began mid-day. I took a quick de-tour to the Yokohama station to try the famous &ldquo;Daifuku&rdquo; aka &ldquo;Mochi&rdquo;</p>
+<p><img loading="lazy" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1g5xpz5pajze05v8vr1y.jpg" alt="Image description"  />
+</p>
+<ul>
+<li>The conference began with a keynote by Jun Fujita, who explained how the Japanese market works. It was very insightful to learn about the different strategies one can follow to cater to the Japanese market.</li>
+</ul>
+<p><img loading="lazy" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dkc1563nc1lro2h1wxs1.jpg" alt="Image description"  />
+</p>
+<ul>
+<li>The next talk was by Joel Lord on the topic &ldquo;Your Job Doesn&rsquo;t Start or End with Your Talk&rdquo;, he mentioned how we (DevRel professionals) can bring back value to our employer. He also talked about the &ldquo;Pac-man rule&rdquo;, which states to create an empty spot when talking in a group, so that others can join the conversation and feel inclusive. He also mentioned about how important it is for us to take time for self-recharge during conferences.</li>
+</ul>
+<p><img loading="lazy" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tumx2dvh92j4ecrexcj.jpg" alt="Image description"  />
+</p>
+<ul>
+<li>
+<p>The third talk was by Harshil Agarwal, on &ldquo;Employer Branding 101: DevRel Version&rdquo;, he talked about internal advocacy, how internal processes like dogfooding and speaker&rsquo;s program can help.</p>
+</li>
+<li>
+<p>The next talk was by Kim Maida on &ldquo;How to Measure (and Communicate) the Business Value of Developer Relations, it was a great talk, super helpful for team leads, you can find it <a href="https://maida.kim/how-to-measure-the-value-of-developer-relations/">here</a></p>
+</li>
+<li>
+<p>The second last talk of the day was by Marino Vijay on &ldquo;The Path to DevRel&rdquo;, he spoke about public learning, how creating content and being consistent at it, is the secret of being good at it.</p>
+</li>
+</ul>
+<p><img loading="lazy" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x53orv8xgnpiv1ewvk4w.jpg" alt="Image description"  />
+</p>
+<ul>
+<li>The last talk was by Diana Pham, she spoke about how women in tech are treated (demeaning and unsolicited messages that women receive) and how we can make it stop.</li>
+</ul>
+<p><img loading="lazy" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2lzpkc3l0szhg0dvz21k.jpg" alt="Image description"  />
+</p>
+<p>Day 1 of the conference ended with the speaker&rsquo;s dinner
+{% embed <a href="https://twitter.com/cheukting_ho/status/1634175808825864194?s=20">https://twitter.com/cheukting_ho/status/1634175808825864194?s=20</a> %}</p>
+<hr>
+<h2 id="day-2-of-the-conference">Day 2 of the conference</h2>
+<p>Day 2 was full-day conference with three tracks and a great speaker line-up.</p>
+<p>It started with Takuo Suzuki talking about Developer Ecosystem in Japan, followed by a cool demo on GitHub Copilot, by Damien. We also learnt how Engineer Cafe is fostering Fukuoka&rsquo;s Developer Community.</p>
+<p>After lunch, there were power-packed back-to-back sessions, it was hard to decide which one to attend.</p>
+<p>The first session I attended was by Caroline Lewko on &ldquo;Optimizing DX on the Developer Journey Map&rdquo;, the talk was part of her book &ldquo;Developer Relations&rdquo; and I was lucky enough to win the book from her through a giveaway.</p>
+<p>{% embed
+<a href="https://twitter.com/HaimantikaM/status/1634585284133412866?s=20">https://twitter.com/HaimantikaM/status/1634585284133412866?s=20</a> %}</p>
+<p>Thereafter I attended 7 sessions, got to learn about building a community, how to shape an entire DevRel team from scratch, how to create content and more.</p>
+<p>The day ended with my talk on &ldquo;Creating Massive Communities&rdquo;</p>
+<p>{% embed <a href="https://twitter.com/adityaoberai1/status/1634473056373723136?s=20">https://twitter.com/adityaoberai1/status/1634473056373723136?s=20</a> %}</p>
+<p>{% embed <a href="https://twitter.com/dianasoyster/status/1634470233993019394?s=20">https://twitter.com/dianasoyster/status/1634470233993019394?s=20</a> %}</p>
+<h2 id="day-5-in-tokyo">Day 5 in Tokyo</h2>
+<p>On the fifth day, we had an Appwrite meetup in Tokyo where Aditya Oberia from Appwrite and Diana Pham, who is an Appwrite hero, co-presented on building a phone authentication app with Appwrite and Vonage.</p>
+<p>{% embed <a href="https://twitter.com/eddiejaoude/status/1635261654928617474?s=20">https://twitter.com/eddiejaoude/status/1635261654928617474?s=20</a> %}</p>
+<p>{% embed <a href="https://twitter.com/eldadfux/status/1638136843886555140?s=20">https://twitter.com/eldadfux/status/1638136843886555140?s=20</a> %}</p>
+<p>Post the meetup, I explored Tokyo along with Joel. We immersed ourselves in the local culture by dining on authentic Japanese cuisine, while sitting in the traditional seating arrangement.</p>
+<p><img loading="lazy" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mzqngs3temmrnckz7hnu.jpg" alt="Image description"  />
+</p>
+<hr>
+<h2 id="day-6-in-tokyo">Day 6 in Tokyo</h2>
+<p>Out of all the days spent in Japan, the last one was the most unforgettable. Our Appwrite team gathered for a mini meetup and spent the day exploring Disney Sea. The park&rsquo;s enchanting beauty made us feel as if we had stepped into a Disney movie.</p>
+<p><img loading="lazy" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9vxoomg8l83wfmfcqtve.jpg" alt="Image description"  />
+</p>
+<hr>
+<h2 id="takeaways-from-the-conference">Takeaways from the conference</h2>
+<p>DevRelCon offers an exceptional opportunity to expand one&rsquo;s knowledge and network. Whether you are early in your career or an experienced professional, the conference provides valuable insights for everyone. Learning from experienced peers in your field is a pleasure that cannot be overstated. Personally, I gained a deeper understanding of the role, its variations across different companies and geographies, as well as strategies for building effective content.</p>
+
+  </div>
+
+  <footer class="post-footer">
+
+<div class="share-buttons">
+
+
+
+</div>
+
+
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>
+      
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = 'copy';
+
+        function copyingDone() {
+            copybutton.innerText = 'copied!';
+            setTimeout(() => {
+                copybutton.innerText = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
