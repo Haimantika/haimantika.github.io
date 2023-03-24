@@ -12,7 +12,7 @@ It was a 7 day trip for me. I arrived two days before the conference, the first 
 
 Did I mention about meeting Diana? We have been friends for a long time, and this is us meeting for the first time 👇
 
-{% embed https://twitter.com/adityaoberai1/status/1633466636731822082?s=20 %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally, the trio met! 😁 <a href="https://t.co/5TNcKNgk7H">pic.twitter.com/5TNcKNgk7H</a></p>&mdash; Aditya Oberai (@adityaoberai1) <a href="https://twitter.com/adityaoberai1/status/1633466636731822082?ref_src=twsrc%5Etfw">March 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -20,13 +20,13 @@ Did I mention about meeting Diana? We have been friends for a long time, and thi
 
 Day 2 started with the jet lag hitting hard, and some surprise meetings! 👇
 
-{% embed https://twitter.com/adityaoberai1/status/1633633605686792192?s=20 %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The happiest kind of encounters! 😄❤️ <a href="https://t.co/skPjTBmwwJ">pic.twitter.com/skPjTBmwwJ</a></p>&mdash; Aditya Oberai (@adityaoberai1) <a href="https://twitter.com/adityaoberai1/status/1633633605686792192?ref_src=twsrc%5Etfw">March 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Spent the rest of the day exploring the city, preparing for my talk, and also wrapping up some work. 
 
 The day ended with and unofficial speaker dinner and making some takoyaki! 
 
-{% embed https://twitter.com/goofmint/status/1633807686545608707?s=20 %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve enjoyed unofficial speakers dinner <a href="https://twitter.com/hashtag/DevRelCon?src=hash&amp;ref_src=twsrc%5Etfw">#DevRelCon</a> <a href="https://t.co/gDX34edfx0">pic.twitter.com/gDX34edfx0</a></p>&mdash; Atsushi@MOONGIFT (@goofmint) <a href="https://twitter.com/goofmint/status/1633807686545608707?ref_src=twsrc%5Etfw">March 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -57,8 +57,7 @@ It was a Friday, thus the conference began mid-day. I took a quick de-tour to th
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2lzpkc3l0szhg0dvz21k.jpg)
 
 Day 1 of the conference ended with the speaker's dinner
-{% embed https://twitter.com/cheukting_ho/status/1634175808825864194?s=20 %}
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/DevRelConTokyo?ref_src=twsrc%5Etfw">@DevRelConTokyo</a> speaker dinner is 🎊👍🏻🥰 <a href="https://t.co/DQRIfRUJiP">pic.twitter.com/DQRIfRUJiP</a></p>&mdash; Cheuk Ting Ho (@cheukting_ho) <a href="https://twitter.com/cheukting_ho/status/1634175808825864194?ref_src=twsrc%5Etfw">March 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
 
 ## Day 2 of the conference 
@@ -71,24 +70,23 @@ After lunch, there were power-packed back-to-back sessions, it was hard to decid
 
 The first session I attended was by Caroline Lewko on "Optimizing DX on the Developer Journey Map", the talk was part of her book "Developer Relations" and I was lucky enough to win the book from her through a giveaway. 
 
-{% embed 
- https://twitter.com/HaimantikaM/status/1634585284133412866?s=20 %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It was an honour to meet <a href="https://twitter.com/CarolineLewko?ref_src=twsrc%5Etfw">@CarolineLewko</a> in-person and get the book from the writer herself! 🥰<br><br>This book had been on my list for so long, so glad to finally have it- I am going to read it on my way back home! <a href="https://t.co/LIvW0fMAvI">pic.twitter.com/LIvW0fMAvI</a></p>&mdash; Haimantika Mitra (@HaimantikaM) <a href="https://twitter.com/HaimantikaM/status/1634585284133412866?ref_src=twsrc%5Etfw">March 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Thereafter I attended 7 sessions, got to learn about building a community, how to shape an entire DevRel team from scratch, how to create content and more. 
 
 The day ended with my talk on "Creating Massive Communities" 
 
-{% embed https://twitter.com/adityaoberai1/status/1634473056373723136?s=20 %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/HaimantikaM?ref_src=twsrc%5Etfw">@HaimantikaM</a> sharing why communities are important and how to create massive communities <a href="https://t.co/Q6TjBaNq5B">pic.twitter.com/Q6TjBaNq5B</a></p>&mdash; Aditya Oberai (@adityaoberai1) <a href="https://twitter.com/adityaoberai1/status/1634473056373723136?ref_src=twsrc%5Etfw">March 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{% embed https://twitter.com/dianasoyster/status/1634470233993019394?s=20 %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And <a href="https://twitter.com/appwrite?ref_src=twsrc%5Etfw">@appwrite</a>’s community management queen herself ❤️👑 <a href="https://twitter.com/HaimantikaM?ref_src=twsrc%5Etfw">@HaimantikaM</a> <a href="https://twitter.com/hashtag/DevRelCon?src=hash&amp;ref_src=twsrc%5Etfw">#DevRelCon</a> <a href="https://t.co/hbJQ9HDEzQ">pic.twitter.com/hbJQ9HDEzQ</a></p>&mdash; Diana 🦪 is on holiday 🌴 (@dianasoyster) <a href="https://twitter.com/dianasoyster/status/1634470233993019394?ref_src=twsrc%5Etfw">March 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Day 5 in Tokyo 
 
-On the fifth day, we had an Appwrite meetup in Tokyo where Aditya Oberia from Appwrite and Diana Pham, who is an Appwrite hero, co-presented on building a phone authentication app with Appwrite and Vonage.
+On the fifth day, we had an Appwrite meetup in Tokyo where Aditya Oberai from Appwrite and Diana Pham, who is an Appwrite hero, co-presented on building a phone authentication app with Appwrite and Vonage.
 
-{% embed https://twitter.com/eddiejaoude/status/1635261654928617474?s=20 %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great <a href="https://twitter.com/appwrite?ref_src=twsrc%5Etfw">@appwrite</a> workshop on &quot;Phone Authentication with Appwrite and Vonage&quot;<br><br>1. Setting Up Vonage<br>2. Installing Appwrite<br>3. Setting the SvelteKit Project<br>4. Setting up the Appwrite SDK<br><br>Full blog post and repo below 👇 <a href="https://t.co/kVmOHj1GGN">pic.twitter.com/kVmOHj1GGN</a></p>&mdash; Eddie Jaoude | EddieHub | Open Source GitHub Star (@eddiejaoude) <a href="https://twitter.com/eddiejaoude/status/1635261654928617474?ref_src=twsrc%5Etfw">March 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{% embed https://twitter.com/eldadfux/status/1638136843886555140?s=20 %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/appwrite?ref_src=twsrc%5Etfw">@appwrite</a> team is rocking in <a href="https://twitter.com/hashtag/Japan?src=hash&amp;ref_src=twsrc%5Etfw">#Japan</a> 🇯🇵 🤘 <a href="https://t.co/h6jgrE10B9">pic.twitter.com/h6jgrE10B9</a></p>&mdash; Eldad A. Fux (@eldadfux) <a href="https://twitter.com/eldadfux/status/1638136843886555140?ref_src=twsrc%5Etfw">March 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Post the meetup, I explored Tokyo along with Joel. We immersed ourselves in the local culture by dining on authentic Japanese cuisine, while sitting in the traditional seating arrangement.
 
