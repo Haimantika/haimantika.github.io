@@ -27,7 +27,6 @@ features = [
   "table-of-contents",
   "opengraph",
   "highlight.js",
-  "favicon",
   "archive",
   "share-icons",
   "social-icons",
