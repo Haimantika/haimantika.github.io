@@ -41,11 +41,11 @@ params:
         description: |
 
           Hello, I am Haimantika.
-           I am a Developer Advocate at Appwrite. As a community builder and a product of the community myself, I strongly believe that technology is for everyone. I am passionate about learning, sharing, and building with the community.
+          A Developer Advocate by profession. I help B2D+ companies bridge the gap between developers and the product with code, content and community. As a community builder and a product of the community myself, I strongly believe that technology is for everyone. I am passionate about learning, sharing, and building with the community.
         
 
           
-        imageUrl: "/images/hm1.png"
+        imageUrl: "/images/hm.png"
         imageTitle: pic
         # imageWidth: 120
         # imageHeight: 120
