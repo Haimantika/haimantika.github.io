@@ -5,78 +5,63 @@
     <link>https://haimantika.github.io/talks/</link>
     <description>Recent content in Talks on haimantika</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://haimantika.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://haimantika.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Phone Authenication App</title>
       <link>https://haimantika.github.io/talks/csharpcornerconf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://haimantika.github.io/talks/csharpcornerconf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Building an Open Source Blogging Platform With Appwrite and Hugo</title>
       <link>https://haimantika.github.io/talks/hugoconf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://haimantika.github.io/talks/hugoconf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Building your portfolio with Hugo</title>
       <link>https://haimantika.github.io/talks/talk6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://haimantika.github.io/talks/talk6/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Creating Massive Communities</title>
       <link>https://haimantika.github.io/talks/devrelcontokyo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://haimantika.github.io/talks/devrelcontokyo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>How I started my DevRel career</title>
       <link>https://haimantika.github.io/talks/talk5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://haimantika.github.io/talks/talk5/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Low code, no code, more power – Power Platform</title>
       <link>https://haimantika.github.io/talks/talk4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://haimantika.github.io/talks/talk4/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Next-Gen Inclusivity- How Gen Z Can Make Real Change in Tech</title>
       <link>https://haimantika.github.io/talks/codeland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://haimantika.github.io/talks/codeland/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Next-Gen Inclusivity- How Gen Z Can Make Real Change in Tech</title>
       <link>https://haimantika.github.io/talks/datawit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://haimantika.github.io/talks/datawit/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
