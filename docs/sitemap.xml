@@ -14,8 +14,6 @@
   </url><url>
     <loc>https://haimantika.github.io/categories/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/contact/</loc>
-  </url><url>
     <loc>https://haimantika.github.io/talks/devrelcontokyo/</loc>
   </url><url>
     <loc>https://haimantika.github.io/articles/article3/</loc>
@@ -39,5 +37,7 @@
     <loc>https://haimantika.github.io/articles/article/</loc>
   </url><url>
     <loc>https://haimantika.github.io/articles/article1/</loc>
+  </url><url>
+    <loc>https://haimantika.github.io/work/</loc>
   </url>
 </urlset>

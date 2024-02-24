@@ -2,8 +2,8 @@
 
 menu:
     main:
-        - name: Contact
-          url: /contact/
+        - name: Work
+          url: /work/
           weight: 30
         - name: Articles
           url: /articles/
