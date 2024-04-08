@@ -41,7 +41,7 @@ params:
         description: |
 
           Hello, I am Haimantika.
-          A Developer Advocate by profession. I help B2D+ companies bridge the gap between developers and the product with code, content and community. As a community builder and a product of the community myself, I strongly believe that technology is for everyone. I am passionate about learning, sharing, and building with the community.
+          Currently working as a Developer Advocate at Hashnode. I help B2D+ companies bridge the gap between developers and the product with code, content and community. As a community builder and a product of the community myself, I strongly believe that technology is for everyone. I am passionate about learning, sharing, and building with the community.
         
 
           
@@ -58,12 +58,12 @@ params:
     socialIcons:
         - name: twitter
           url: "https://twitter.com/HaimantikaM"
-        - name: dev
-          url: "https://dev.to/haimantika"
         - name: github
           url: "https://github.com/Haimantika"
         - name: linkedin
           url: "https://www.linkedin.com/in/haimantika-mitra/"
+        - name: hashnode
+          url: "https://haimantika.dev/blog"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
