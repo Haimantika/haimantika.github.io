@@ -3,6 +3,7 @@ title: Building Strong Developer Communities through Effective DevRel Strategies
 type: page
 description: Describing how strong DevRel strategies can help communities
 topic: personal
+date: 2024-04-12 # Add the dates to the rest of your articles, or don't add at all.
 ---
 
 ## Why talk about DevRel?

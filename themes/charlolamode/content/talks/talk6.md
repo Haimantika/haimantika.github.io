@@ -6,4 +6,5 @@ type: page
 topic: talk
 link: "https://www.youtube.com/watch?v=EGXSwC9UYiQ"
 image: "/images/hugoconf2.jpeg"
+ShowReadingTime: false
 ---
