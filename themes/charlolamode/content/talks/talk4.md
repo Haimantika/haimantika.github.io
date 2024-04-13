@@ -6,4 +6,5 @@ type: page
 topic: talk
 link: "https://learn.microsoft.com/en-us/events/build-2020/bdl124"
 image: "/images/build.jpg"
+ShowReadingTime: false
 ---

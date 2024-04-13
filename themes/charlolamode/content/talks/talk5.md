@@ -6,4 +6,5 @@ type: page
 topic: talk
 link: "https://www.youtube.com/watch?v=9eifdIGye-w"
 image: "/images/podcast.png"
+ShowReadingTime: false
 ---
