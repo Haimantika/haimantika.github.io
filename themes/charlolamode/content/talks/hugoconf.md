@@ -6,4 +6,5 @@ type: page
 topic: talk
 link: "https://www.youtube.com/watch?v=qUniGSAZ_8k"
 image: "/images/talk3.jpeg"
+ShowReadingTime: false
 ---
