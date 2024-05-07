@@ -5,9 +5,6 @@ menu:
         - name: Work
           url: /work/
           weight: 30
-        - name: Testimonials
-          url: /testimonials/
-          weight: 20
         - name: Articles
           url: /articles/
           weight: 20
