@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testimonials on haimantika</title>
+    <link>https://haimantika.github.io/testimonials/</link>
+    <description>Recent content in Testimonials on haimantika</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://haimantika.github.io/testimonials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevRel Thought Leadership</title>
+      <link>https://haimantika.github.io/testimonials/test1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haimantika.github.io/testimonials/test1/</guid>
+      <description>&amp;ldquo;As a startup building a product in the developer education space, we reached out to Haimantika to understand more about the DevRel space. Her multi-faceted experiences through her DevRel journey gave us some amazing insights and helped us navigate through and rethink some of the features we were incoporporating.&amp;rdquo; - Raghavendra Sirigeri , Founder at Questodev</description>
+    </item>
+  </channel>
+</rss>

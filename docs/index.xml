@@ -6,7 +6,22 @@
     <description>Recent content on haimantika</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://haimantika.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building scalable open-source communities</title>
+      <link>https://haimantika.github.io/talks/talk7/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://haimantika.github.io/talks/talk7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Building Strong Developer Communities through Effective DevRel Strategies</title>
+      <link>https://haimantika.github.io/articles/article4/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://haimantika.github.io/articles/article4/</guid>
+      <description>Why talk about DevRel? Whether it is a startup or a big company, people in DevRel have a big role to play in product growth and adoption. Depending on what level the product is, DevRel strategies will differ. In this blog, we will explore key strategies that can help organizations build and nurture robust developer communities. We will uncover the essential elements necessary for successful DevRel, highlighting best practices, and case studies.</description>
+    </item>
     <item>
       <title>Building a Phone Authenication App</title>
       <link>https://haimantika.github.io/talks/csharpcornerconf/</link>
@@ -22,20 +37,6 @@
       <description></description>
     </item>
     <item>
-      <title>Building scalable open-source communities</title>
-      <link>https://haimantika.github.io/talks/talk7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/talks/talk7/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Building Strong Developer Communities through Effective DevRel Strategies</title>
-      <link>https://haimantika.github.io/articles/article4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/articles/article4/</guid>
-      <description>Why talk about DevRel? Whether it is a startup or a big company, people in DevRel have a big role to play in product growth and adoption. Depending on what level the product is, DevRel strategies will differ. In this blog, we will explore key strategies that can help organizations build and nurture robust developer communities. We will uncover the essential elements necessary for successful DevRel, highlighting best practices, and case studies.</description>
-    </item>
-    <item>
       <title>Building your portfolio with Hugo</title>
       <link>https://haimantika.github.io/talks/talk6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,6 +49,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://haimantika.github.io/talks/devrelcontokyo/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>DevRel Thought Leadership</title>
+      <link>https://haimantika.github.io/testimonials/test1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haimantika.github.io/testimonials/test1/</guid>
+      <description>&amp;ldquo;As a startup building a product in the developer education space, we reached out to Haimantika to understand more about the DevRel space. Her multi-faceted experiences through her DevRel journey gave us some amazing insights and helped us navigate through and rethink some of the features we were incoporporating.&amp;rdquo; - Raghavendra Sirigeri , Founder at Questodev</description>
     </item>
     <item>
       <title>DevRelCon Yokohama 2023</title>
