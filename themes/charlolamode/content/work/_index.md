@@ -8,16 +8,27 @@ type: list
 On a mission to make "technology easy and accessibile for everyone". Here's a summary of my work experiences so far.
 
 ----
+## DigitalOcean
+Developer Advocate, Dec 2024-Present
+
+[DigitalOcean](https://www.digitalocean.com/) is a cloud computing platform that offers web hosting, infrastructure services, and application development tools and has an integrated GenAI platform.
+
+My responsibilities in DigitalOcean will include:
+- Building applications with DigitalOcean, and writing tutorials and guide on it.
+- Help in Hacktoberfest, Wavemaker and other community initiatives.
+- Help grow the "mind-share" of DigitalOcean.
 
 ## Hashnode
-Developer Advocate, Jan 2024-Present
+Developer Advocate, Jan 2024-Dec 2024
 
 [Hashnode](https://hashnode.com) started as a blogging platform for developer and boasts over 100K developers engaging with the product everyday. It expanded to release it's own purpose-built Headless CMS solution that can be used to build blogs with Hashnode's GraphQL APIs. 
 
-I am the first hire in the Hashnode DevRel team.My responsibilities here includes:
+I am the first hire in the Hashnode DevRel team. I have helped in:
+- Building the entire [developer documentation](https://docs.hashnode.com/blogs/getting-started/introduction).
+- Using Hashnode's API to build various integrations.
+- Wrote multiple articles, and did livestreams that saw a 50% growth in number.
 - Building with Hashnode Headless using different frontend technologies.
-- Building an entire DevRel program, and strategy.
-- Developing educational content, managing and growing the Hashnode community, building programs that helps in growing Hashnode's presence.
+- Helped in growing the community and product adoption.
 
 ----
 
