@@ -2,185 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>haimantika</title>
-    <link>https://haimantika.github.io/</link>
+    <link>http://localhost:60028/</link>
     <description>Recent content on haimantika</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://haimantika.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60028/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building scalable open-source communities</title>
-      <link>https://haimantika.github.io/talks/talk7/</link>
+      <link>http://localhost:60028/talks/talk7/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/talks/talk7/</guid>
+      <guid>http://localhost:60028/talks/talk7/</guid>
       <description></description>
     </item>
     <item>
       <title>Building Strong Developer Communities through Effective DevRel Strategies</title>
-      <link>https://haimantika.github.io/articles/article4/</link>
+      <link>http://localhost:60028/articles/article4/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/articles/article4/</guid>
+      <guid>http://localhost:60028/articles/article4/</guid>
       <description>&lt;h2 id=&#34;why-talk-about-devrel&#34;&gt;Why talk about DevRel?&lt;/h2&gt;&#xA;&lt;p&gt;Whether it is a startup or a big company, people in DevRel have a big role to play in product growth and adoption. Depending on what level the product is, DevRel strategies will differ.&#xA;In this blog, we will explore key strategies that can help organizations build and nurture robust developer communities. We will uncover the essential elements necessary for successful DevRel, highlighting best practices, and case studies.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://haimantika.github.io/testimonials/test1/</link>
+      <link>http://localhost:60028/testimonials/test1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/testimonials/test1/</guid>
+      <guid>http://localhost:60028/testimonials/test1/</guid>
       <description></description>
     </item>
     <item>
       <title>AI reviewer GitHub Action</title>
-      <link>https://haimantika.github.io/projects/ai-reviewer-github-action/</link>
+      <link>http://localhost:60028/projects/ai-reviewer-github-action/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/projects/ai-reviewer-github-action/</guid>
+      <guid>http://localhost:60028/projects/ai-reviewer-github-action/</guid>
       <description></description>
     </item>
     <item>
       <title>Building a Phone Authenication App</title>
-      <link>https://haimantika.github.io/talks/csharpcornerconf/</link>
+      <link>http://localhost:60028/talks/csharpcornerconf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/talks/csharpcornerconf/</guid>
+      <guid>http://localhost:60028/talks/csharpcornerconf/</guid>
       <description></description>
     </item>
     <item>
       <title>Building an Open Source Blogging Platform With Appwrite and Hugo</title>
-      <link>https://haimantika.github.io/talks/hugoconf/</link>
+      <link>http://localhost:60028/talks/hugoconf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/talks/hugoconf/</guid>
+      <guid>http://localhost:60028/talks/hugoconf/</guid>
       <description></description>
     </item>
     <item>
       <title>Building your portfolio with Hugo</title>
-      <link>https://haimantika.github.io/talks/talk6/</link>
+      <link>http://localhost:60028/talks/talk6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/talks/talk6/</guid>
+      <guid>http://localhost:60028/talks/talk6/</guid>
       <description></description>
     </item>
     <item>
       <title>create-intro-card</title>
-      <link>https://haimantika.github.io/projects/create-intro-card/</link>
+      <link>http://localhost:60028/projects/create-intro-card/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/projects/create-intro-card/</guid>
+      <guid>http://localhost:60028/projects/create-intro-card/</guid>
       <description></description>
     </item>
     <item>
       <title>Creating Massive Communities</title>
-      <link>https://haimantika.github.io/talks/devrelcontokyo/</link>
+      <link>http://localhost:60028/talks/devrelcontokyo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/talks/devrelcontokyo/</guid>
+      <guid>http://localhost:60028/talks/devrelcontokyo/</guid>
       <description></description>
     </item>
     <item>
       <title>DevRel show with Frederic Harper</title>
-      <link>https://haimantika.github.io/talks/talk9/</link>
+      <link>http://localhost:60028/talks/talk9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/talks/talk9/</guid>
+      <guid>http://localhost:60028/talks/talk9/</guid>
       <description></description>
     </item>
     <item>
       <title>DevRelCon Yokohama 2023</title>
-      <link>https://haimantika.github.io/articles/article3/</link>
+      <link>http://localhost:60028/articles/article3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/articles/article3/</guid>
+      <guid>http://localhost:60028/articles/article3/</guid>
       <description>&lt;p&gt;DevRelCon Yokohama was all about meeting amazing people, a lot of learnings, some &amp;ldquo;this is my first time doing it&amp;rdquo; and a lot of FUN!&lt;/p&gt;&#xA;&lt;p&gt;This was my first time speaking in a in-person international conference, I was excited and nervous at the same time. It was a two day conference, happening in Yokohama, Japan. I have been friends with the DevRelCon Tokyo/Yokohama organising team since 2020, I was a speaker for the online edition (also a major reason why I chose my career in DevRel).&lt;/p&gt;</description>
     </item>
     <item>
       <title>GitHub Action for training ML models</title>
-      <link>https://haimantika.github.io/projects/github-action-ml-models/</link>
+      <link>http://localhost:60028/projects/github-action-ml-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/projects/github-action-ml-models/</guid>
+      <guid>http://localhost:60028/projects/github-action-ml-models/</guid>
       <description></description>
     </item>
     <item>
       <title>GitHub Roast</title>
-      <link>https://haimantika.github.io/projects/github-roast/</link>
+      <link>http://localhost:60028/projects/github-roast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/projects/github-roast/</guid>
+      <guid>http://localhost:60028/projects/github-roast/</guid>
       <description></description>
     </item>
     <item>
       <title>GitHub stats tool</title>
-      <link>https://haimantika.github.io/projects/github-stats-tool/</link>
+      <link>http://localhost:60028/projects/github-stats-tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/projects/github-stats-tool/</guid>
+      <guid>http://localhost:60028/projects/github-stats-tool/</guid>
       <description></description>
     </item>
     <item>
       <title>How I started my DevRel career</title>
-      <link>https://haimantika.github.io/talks/talk5/</link>
+      <link>http://localhost:60028/talks/talk5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/talks/talk5/</guid>
+      <guid>http://localhost:60028/talks/talk5/</guid>
       <description></description>
     </item>
     <item>
       <title>Introduction npm package</title>
-      <link>https://haimantika.github.io/projects/introduction-npm-package/</link>
+      <link>http://localhost:60028/projects/introduction-npm-package/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/projects/introduction-npm-package/</guid>
+      <guid>http://localhost:60028/projects/introduction-npm-package/</guid>
       <description></description>
     </item>
     <item>
       <title>Low code, no code, more power – Power Platform</title>
-      <link>https://haimantika.github.io/talks/talk4/</link>
+      <link>http://localhost:60028/talks/talk4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/talks/talk4/</guid>
+      <guid>http://localhost:60028/talks/talk4/</guid>
       <description></description>
     </item>
     <item>
       <title>Next-Gen Inclusivity- How Gen Z Can Make Real Change in Tech</title>
-      <link>https://haimantika.github.io/talks/codeland/</link>
+      <link>http://localhost:60028/talks/codeland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/talks/codeland/</guid>
+      <guid>http://localhost:60028/talks/codeland/</guid>
       <description></description>
     </item>
     <item>
       <title>Next-Gen Inclusivity- How Gen Z Can Make Real Change in Tech</title>
-      <link>https://haimantika.github.io/talks/datawit/</link>
+      <link>http://localhost:60028/talks/datawit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/talks/datawit/</guid>
+      <guid>http://localhost:60028/talks/datawit/</guid>
       <description></description>
     </item>
     <item>
       <title>Nomado</title>
-      <link>https://haimantika.github.io/projects/nomado/</link>
+      <link>http://localhost:60028/projects/nomado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/projects/nomado/</guid>
+      <guid>http://localhost:60028/projects/nomado/</guid>
       <description></description>
     </item>
     <item>
       <title>Revolutionizing web development with Headless CMS</title>
-      <link>https://haimantika.github.io/talks/talk8/</link>
+      <link>http://localhost:60028/talks/talk8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/talks/talk8/</guid>
+      <guid>http://localhost:60028/talks/talk8/</guid>
       <description></description>
     </item>
     <item>
       <title>The Subtle Art Of Cold Emailing</title>
-      <link>https://haimantika.github.io/articles/article2/</link>
+      <link>http://localhost:60028/articles/article2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/articles/article2/</guid>
+      <guid>http://localhost:60028/articles/article2/</guid>
       <description>&lt;h2 id=&#34;what-is-cold--emailing&#34;&gt;What is cold- emailing?&lt;/h2&gt;&#xA;&lt;p&gt;Is there a dream company/dream role you want to work for? Do you want a reply from your favorite celebrity? Do you want to get mentored by your idol? Cold-emailing can do it for you!&lt;/p&gt;&#xA;&lt;p&gt;You never know, when a simple tweet or an email or a message can lead to your first big hit! Put your creative hat on and get the desired results!&lt;/p&gt;&#xA;&lt;p&gt;There are numerous examples of people getting hired from a LinkedIn post or an email, becoming a social media celebrity overnight and more. Once you figure out how it is done, you use the skills to get what you desire for.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome 👋</title>
-      <link>https://haimantika.github.io/articles/article/</link>
+      <link>http://localhost:60028/articles/article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/articles/article/</guid>
+      <guid>http://localhost:60028/articles/article/</guid>
       <description>&lt;p&gt;Hi 👋 Haimantika here! We finally have a portfolio, where you get to find everything about me in one place.&lt;/p&gt;&#xA;&lt;p&gt;For those who are new here, hi! I am Haimantika, a Developer Advocate by profession. I love to build with tech, meet people, travel and do gardening.&lt;/p&gt;&#xA;&lt;p&gt;I come from a small city, Siliguri located in the North Eastern part of India. Fun fact - I never wanted to do engineering, fast forward to 6 years, now I have an engineering degree and working full-time in tech for 2 years. The place I come from is known for 4T&amp;rsquo;s - tea,teak, timber and tourism and nothing remotely close to tech. My exposure to tech was limited to the age-old syllabus in our courses, it is only during 2020 when everything was shut and I spent hours in my computer upskilling(did I say we had only one computer that was shared by me and my sister? I just didn&amp;rsquo;t want to add another financial burden on my mom who has been single handedly running the family ever since my dad expired). It was through a random search that I got to know about communities and looked for ways to join them. The first community I joined was then known as &amp;ldquo;Microsoft Student Partner&amp;rdquo;. It was the turning point for my career, I upskilled in Cloud, Power Platfor, started giving talks in conferences as big as Microsoft Build, I hit the peak, got my first paid internship (glad that I could now contribute to the family and run my own expenses), my love and dedication towards the community grew, I could see the change it brought in me and I wanted to help more people like me. For the longest time I did community work besides my daily job,even on the weekends and I loved every bit of it. Soon I joined Microsoft, I was very excited because it was my dream company, but not everything goes as planned, I started hating my job, it felt more like a pain to me and I realised it is happening because I am not loving the job I am doing. This is when I realised, my passion lied in communuties and it is DevRel that I like and want to do, talk of coincidence, Appwrite had an opening around the same time, fast forward to 2023, I am now completing one year at Appwrite, loving every bit of it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is DevRel?</title>
-      <link>https://haimantika.github.io/articles/article1/</link>
+      <link>http://localhost:60028/articles/article1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/articles/article1/</guid>
+      <guid>http://localhost:60028/articles/article1/</guid>
       <description>&lt;p&gt;DevRels are making the heads turn and if you think it&amp;rsquo;s because the job is cool, you are mistaken. It is because the term is relatively new and many are unaware of the role.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a23sl9g9tdxkw3s9uv64.gif&#34; alt=&#34;Image description&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;If I had to express that in a tweet, it would go something like 👇&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;P.S - The definition of DevRel has a lot to do with individual perspectives and company goals. In this article I will try to put a generalised view of the role.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What the heck is a RAG?</title>
-      <link>https://haimantika.github.io/talks/talk10/</link>
+      <link>http://localhost:60028/talks/talk10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haimantika.github.io/talks/talk10/</guid>
+      <guid>http://localhost:60028/talks/talk10/</guid>
       <description></description>
     </item>
   </channel>

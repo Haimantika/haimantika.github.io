@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://haimantika.github.io/articles/</loc>
+    <loc>http://localhost:60028/articles/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haimantika.github.io/talks/talk7/</loc>
+    <loc>http://localhost:60028/talks/talk7/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haimantika.github.io/articles/article4/</loc>
+    <loc>http://localhost:60028/articles/article4/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haimantika.github.io/</loc>
+    <loc>http://localhost:60028/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haimantika.github.io/talks/</loc>
+    <loc>http://localhost:60028/talks/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haimantika.github.io/testimonials/test1/</loc>
+    <loc>http://localhost:60028/testimonials/test1/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/projects/ai-reviewer-github-action/</loc>
+    <loc>http://localhost:60028/projects/ai-reviewer-github-action/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/talks/csharpcornerconf/</loc>
+    <loc>http://localhost:60028/talks/csharpcornerconf/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/talks/hugoconf/</loc>
+    <loc>http://localhost:60028/talks/hugoconf/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/talks/talk6/</loc>
+    <loc>http://localhost:60028/talks/talk6/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/categories/</loc>
+    <loc>http://localhost:60028/categories/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/projects/create-intro-card/</loc>
+    <loc>http://localhost:60028/projects/create-intro-card/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/talks/devrelcontokyo/</loc>
+    <loc>http://localhost:60028/talks/devrelcontokyo/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/talks/talk9/</loc>
+    <loc>http://localhost:60028/talks/talk9/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/articles/article3/</loc>
+    <loc>http://localhost:60028/articles/article3/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/projects/github-action-ml-models/</loc>
+    <loc>http://localhost:60028/projects/github-action-ml-models/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/projects/github-roast/</loc>
+    <loc>http://localhost:60028/projects/github-roast/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/projects/github-stats-tool/</loc>
+    <loc>http://localhost:60028/projects/github-stats-tool/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/talks/talk5/</loc>
+    <loc>http://localhost:60028/talks/talk5/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/projects/introduction-npm-package/</loc>
+    <loc>http://localhost:60028/projects/introduction-npm-package/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/talks/talk4/</loc>
+    <loc>http://localhost:60028/talks/talk4/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/talks/codeland/</loc>
+    <loc>http://localhost:60028/talks/codeland/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/talks/datawit/</loc>
+    <loc>http://localhost:60028/talks/datawit/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/projects/nomado/</loc>
+    <loc>http://localhost:60028/projects/nomado/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/projects/</loc>
+    <loc>http://localhost:60028/projects/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/talks/talk8/</loc>
+    <loc>http://localhost:60028/talks/talk8/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/tags/</loc>
+    <loc>http://localhost:60028/tags/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/testimonials/</loc>
+    <loc>http://localhost:60028/testimonials/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/articles/article2/</loc>
+    <loc>http://localhost:60028/articles/article2/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/articles/article/</loc>
+    <loc>http://localhost:60028/articles/article/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/articles/article1/</loc>
+    <loc>http://localhost:60028/articles/article1/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/talks/talk10/</loc>
+    <loc>http://localhost:60028/talks/talk10/</loc>
   </url><url>
-    <loc>https://haimantika.github.io/work/</loc>
+    <loc>http://localhost:60028/work/</loc>
   </url>
 </urlset>
