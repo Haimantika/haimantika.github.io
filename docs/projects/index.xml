@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on haimantika</title>
-    <link>http://localhost:60028/projects/</link>
+    <link>https://haimantika.github.io/projects/</link>
     <description>Recent content in Projects on haimantika</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:60028/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://haimantika.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI reviewer GitHub Action</title>
-      <link>http://localhost:60028/projects/ai-reviewer-github-action/</link>
+      <link>https://haimantika.github.io/projects/ai-reviewer-github-action/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/projects/ai-reviewer-github-action/</guid>
+      <guid>https://haimantika.github.io/projects/ai-reviewer-github-action/</guid>
       <description></description>
     </item>
     <item>
       <title>create-intro-card</title>
-      <link>http://localhost:60028/projects/create-intro-card/</link>
+      <link>https://haimantika.github.io/projects/create-intro-card/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/projects/create-intro-card/</guid>
+      <guid>https://haimantika.github.io/projects/create-intro-card/</guid>
       <description></description>
     </item>
     <item>
       <title>GitHub Action for training ML models</title>
-      <link>http://localhost:60028/projects/github-action-ml-models/</link>
+      <link>https://haimantika.github.io/projects/github-action-ml-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/projects/github-action-ml-models/</guid>
+      <guid>https://haimantika.github.io/projects/github-action-ml-models/</guid>
       <description></description>
     </item>
     <item>
       <title>GitHub Roast</title>
-      <link>http://localhost:60028/projects/github-roast/</link>
+      <link>https://haimantika.github.io/projects/github-roast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/projects/github-roast/</guid>
+      <guid>https://haimantika.github.io/projects/github-roast/</guid>
       <description></description>
     </item>
     <item>
       <title>GitHub stats tool</title>
-      <link>http://localhost:60028/projects/github-stats-tool/</link>
+      <link>https://haimantika.github.io/projects/github-stats-tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/projects/github-stats-tool/</guid>
+      <guid>https://haimantika.github.io/projects/github-stats-tool/</guid>
       <description></description>
     </item>
     <item>
       <title>Introduction npm package</title>
-      <link>http://localhost:60028/projects/introduction-npm-package/</link>
+      <link>https://haimantika.github.io/projects/introduction-npm-package/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/projects/introduction-npm-package/</guid>
+      <guid>https://haimantika.github.io/projects/introduction-npm-package/</guid>
       <description></description>
     </item>
     <item>
       <title>Nomado</title>
-      <link>http://localhost:60028/projects/nomado/</link>
+      <link>https://haimantika.github.io/projects/nomado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/projects/nomado/</guid>
+      <guid>https://haimantika.github.io/projects/nomado/</guid>
       <description></description>
     </item>
   </channel>
