@@ -1,0 +1,32 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">{{ .Description }}</div>
+    {{- end }}
+  </header>
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+  {{- else if .Description }}
+  <div class="post-content">
+    <p>{{ .Description }}</p>
+  </div>
+  {{- end }}
+
+  <footer class="post-footer project-links">
+    {{- if .Params.tryUrl }}
+    <a href="{{ .Params.tryUrl }}" target="_blank" rel="noopener noreferrer" class="project-link">Try it out</a>
+    {{- end }}
+    {{- if .Params.codeUrl }}
+    <a href="{{ .Params.codeUrl }}" target="_blank" rel="noopener noreferrer" class="project-link">See the code</a>
+    {{- end }}
+  </footer>
+</article>
+
+{{- end }}

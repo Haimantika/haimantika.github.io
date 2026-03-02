@@ -1,0 +1,41 @@
+{{- define "main" }}
+
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description | markdownify }}
+  </div>
+  {{- end }}
+</header>
+
+{{- if .Content }}
+<div class="post-content">
+  {{ .Content }}
+</div>
+{{- end }}
+
+<div class="projects-list">
+  {{- range .Pages }}
+  <article class="post-entry post-entry-project">
+    <header class="entry-header">
+      <h2>{{ .Title }}</h2>
+    </header>
+    <section class="entry-content entry-content-project">
+      <p>{{ .Description | plainify }}</p>
+    </section>
+    <footer class="entry-footer project-links">
+      {{- if .Params.tryUrl }}
+      <a href="{{ .Params.tryUrl }}" target="_blank" rel="noopener noreferrer" class="project-link">Try it out</a>
+      {{- end }}
+      {{- if .Params.codeUrl }}
+      <a href="{{ .Params.codeUrl }}" target="_blank" rel="noopener noreferrer" class="project-link">See the code</a>
+      {{- end }}
+    </footer>
+    <a class="entry-link" aria-label="project {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  </article>
+  {{- end }}
+</div>
+
+{{- end }}

@@ -60,6 +60,16 @@
     transform: scale(0.96);
 }
 
+.projects-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--gap);
+}
+
+.projects-list .entry-content-project {
+    -webkit-line-clamp: unset;
+    display: block;
+}
 
 .tag-entry .entry-cover {
     display: none;

@@ -4,19 +4,26 @@ type: list
 ---
 
 
-###### 
-On a mission to make "technology easy and accessibile for everyone". Here's a summary of my work experiences so far.
+######
+On a mission to make "technology easy and accessible for everyone". Here's a summary of my work experiences so far.
 
 ----
 ## DigitalOcean
-Developer Advocate, Dec 2024-Present
+Senior Developer Advocate, Dec 2024–Present
 
-[DigitalOcean](https://www.digitalocean.com/) is a cloud computing platform that offers web hosting, infrastructure services, and application development tools and has an integrated GenAI platform.
+[DigitalOcean](https://www.digitalocean.com/) is a cloud computing platform that offers web hosting, infrastructure services, and application development tools, with an integrated GenAI platform. From dreaming about tech in 2020 to enabling builders around the world, my focus at DigitalOcean is on helping developers ship with confidence.
 
-My responsibilities in DigitalOcean will include:
-- Building applications with DigitalOcean, and writing tutorials and guide on it.
-- Help in Hacktoberfest, Wavemaker and other community initiatives.
-- Help grow the "mind-share" of DigitalOcean.
+Working with DigitalOcean’s Developer Relations team, my work includes:
+
+- **Integrations & product positioning** — Built integrations such as the Moltbot one-click droplet, positioning DigitalOcean as the cloud for scaling and building AI workflows.
+- **Demos & open source** — Building demos and open-source applications that show how to use DigitalOcean’s products effectively.
+- **Technical content** — Writing technical articles, tutorials, and other content to support developer education and product adoption.
+- **Video & education** — Creating high-quality technical videos that support developer education on DigitalOcean products.
+- **Community programs** — Helping build and scale community programs from the ground up, including the DO Wavemakers program and Hacktoberfest.
+- **Speaking & advocacy** — Speaking about AI, cloud, and general tech on Cloud Chats and other community platforms.
+- **Product launches** — Supporting product launches with open-source projects and educational content that highlight real-world use cases.
+- **Nomado** — Built [nomado.live](https://nomado.live), a GenAI-powered app using DigitalOcean’s GenAI Platform, App Platform, and Postgres. It’s used by people across the US, India, EU, UK, and Africa and showcases the full power of DigitalOcean’s GenAI platform in a single full-stack app.
+- **SaaS starter kit** — Worked on the SaaS starter kit to onboard users building with DigitalOcean; added features such as invoice generation with DigitalOcean Gradient and updated the UI.
 
 ## Hashnode
 Developer Advocate, Jan 2024-Dec 2024

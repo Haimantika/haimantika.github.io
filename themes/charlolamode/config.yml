@@ -8,6 +8,9 @@ menu:
         - name: Articles
           url: /articles/
           weight: 20
+        - name: Projects
+          url: /projects/
+          weight: 25
         - name: Talks
           url: /Talks/
           weight: 15
@@ -73,7 +76,6 @@ params:
       #   url: yoururl
       # - name: facebook
       #   url: yoururl
-
 
     # change favicon in images folder (icon for web tab)
     assets:
