@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on haimantika</title>
-    <link>http://localhost:60028/talks/</link>
+    <link>https://haimantika.github.io/talks/</link>
     <description>Recent content in Talks on haimantika</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:60028/talks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://haimantika.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building scalable open-source communities</title>
-      <link>http://localhost:60028/talks/talk7/</link>
+      <link>https://haimantika.github.io/talks/talk7/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/talks/talk7/</guid>
+      <guid>https://haimantika.github.io/talks/talk7/</guid>
       <description></description>
     </item>
     <item>
       <title>Building a Phone Authenication App</title>
-      <link>http://localhost:60028/talks/csharpcornerconf/</link>
+      <link>https://haimantika.github.io/talks/csharpcornerconf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/talks/csharpcornerconf/</guid>
+      <guid>https://haimantika.github.io/talks/csharpcornerconf/</guid>
       <description></description>
     </item>
     <item>
       <title>Building an Open Source Blogging Platform With Appwrite and Hugo</title>
-      <link>http://localhost:60028/talks/hugoconf/</link>
+      <link>https://haimantika.github.io/talks/hugoconf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/talks/hugoconf/</guid>
+      <guid>https://haimantika.github.io/talks/hugoconf/</guid>
       <description></description>
     </item>
     <item>
       <title>Building your portfolio with Hugo</title>
-      <link>http://localhost:60028/talks/talk6/</link>
+      <link>https://haimantika.github.io/talks/talk6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/talks/talk6/</guid>
+      <guid>https://haimantika.github.io/talks/talk6/</guid>
       <description></description>
     </item>
     <item>
       <title>Creating Massive Communities</title>
-      <link>http://localhost:60028/talks/devrelcontokyo/</link>
+      <link>https://haimantika.github.io/talks/devrelcontokyo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/talks/devrelcontokyo/</guid>
+      <guid>https://haimantika.github.io/talks/devrelcontokyo/</guid>
       <description></description>
     </item>
     <item>
       <title>DevRel show with Frederic Harper</title>
-      <link>http://localhost:60028/talks/talk9/</link>
+      <link>https://haimantika.github.io/talks/talk9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/talks/talk9/</guid>
+      <guid>https://haimantika.github.io/talks/talk9/</guid>
       <description></description>
     </item>
     <item>
       <title>How I started my DevRel career</title>
-      <link>http://localhost:60028/talks/talk5/</link>
+      <link>https://haimantika.github.io/talks/talk5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/talks/talk5/</guid>
+      <guid>https://haimantika.github.io/talks/talk5/</guid>
       <description></description>
     </item>
     <item>
       <title>Low code, no code, more power – Power Platform</title>
-      <link>http://localhost:60028/talks/talk4/</link>
+      <link>https://haimantika.github.io/talks/talk4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/talks/talk4/</guid>
+      <guid>https://haimantika.github.io/talks/talk4/</guid>
       <description></description>
     </item>
     <item>
       <title>Next-Gen Inclusivity- How Gen Z Can Make Real Change in Tech</title>
-      <link>http://localhost:60028/talks/codeland/</link>
+      <link>https://haimantika.github.io/talks/codeland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/talks/codeland/</guid>
+      <guid>https://haimantika.github.io/talks/codeland/</guid>
       <description></description>
     </item>
     <item>
       <title>Next-Gen Inclusivity- How Gen Z Can Make Real Change in Tech</title>
-      <link>http://localhost:60028/talks/datawit/</link>
+      <link>https://haimantika.github.io/talks/datawit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/talks/datawit/</guid>
+      <guid>https://haimantika.github.io/talks/datawit/</guid>
       <description></description>
     </item>
     <item>
       <title>Revolutionizing web development with Headless CMS</title>
-      <link>http://localhost:60028/talks/talk8/</link>
+      <link>https://haimantika.github.io/talks/talk8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/talks/talk8/</guid>
+      <guid>https://haimantika.github.io/talks/talk8/</guid>
       <description></description>
     </item>
     <item>
       <title>What the heck is a RAG?</title>
-      <link>http://localhost:60028/talks/talk10/</link>
+      <link>https://haimantika.github.io/talks/talk10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60028/talks/talk10/</guid>
+      <guid>https://haimantika.github.io/talks/talk10/</guid>
       <description></description>
     </item>
   </channel>
