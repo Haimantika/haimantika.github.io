@@ -15,7 +15,7 @@ Senior Developer Advocate, Dec 2024–Present
 
 Working with DigitalOcean’s Developer Relations team, my work includes:
 
-- **Integrations & product positioning** — Built integrations such as the Moltbot one-click droplet, positioning DigitalOcean as the cloud for scaling and building AI workflows.
+- **Integrations & product positioning** — Built integrations such as the OpenClaw one-click droplet, positioning DigitalOcean as the cloud for scaling and building AI workflows.
 - **Demos & open source** — Building demos and open-source applications that show how to use DigitalOcean’s products effectively.
 - **Technical content** — Writing technical articles, tutorials, and other content to support developer education and product adoption.
 - **Video & education** — Creating high-quality technical videos that support developer education on DigitalOcean products.
