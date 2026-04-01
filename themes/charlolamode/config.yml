@@ -66,8 +66,6 @@ params:
           url: "https://github.com/Haimantika"
         - name: linkedin
           url: "https://www.linkedin.com/in/haimantika-mitra/"
-        - name: hashnode
-          url: "https://haimantika.dev/blog"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
